@@ -18,6 +18,6 @@ Enjoy the 8 hours you saved not having to do this manually
 NOTES:
 As of now, anytime the text of a phrase gets updated, that text's formatting (Bold, Font, FontSize, etc.) gets over-written back to the documents default. Will add the ability to retain formatting in the future.
 
-Issues with Table of Contents of a document getting deleted if a section title gets updated. Will need ot investigate this...
+Issues with Table of Contents of a document getting deleted if a section title gets updated. Will need to investigate this...
 
-footer_loop, header_loop, and table_loop are very similar. Will look into consolidating into 1 single method
+footer_loop, header_loop, and table_loop are very similar. Will look into consolidating into a single method
