@@ -128,7 +128,7 @@ class Word():
                 if new_textline != text_line:
                     try:
                         self.doc.paragraphs[i].text = new_textline
-                        self.log_change(content=f'{new_textline} on paragraph {i}') # Log this change
+                        self.log_change(content=f'>>>{new_textline} on paragraph {i}') # Log this change
                     except:
                         logging.error('Paragraph could not be looped thru!') # Error handling if docx can't be updated
                         self.log_change(content=f' E R R O R! on paragraph {i}!') # Log this error

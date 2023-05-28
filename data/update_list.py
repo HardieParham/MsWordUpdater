@@ -5,9 +5,8 @@
 
 # This is a dictionary to update old strings to their new counterparts
 data = {
-    'Site location 1': 'Site location 2',
-    'Project 1': 'Project 2',
-    'April 2021': 'March 2023',
-    '2021': '2023',
-    '00': '01',
+    '16/MAR': '>HERE<',
+    'March 2023': '>HERE<',
+    'March': '>HERE<',
+    'MAR': '>HERE<',
 }
