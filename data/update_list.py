@@ -9,4 +9,6 @@ data = {
     'March 2023': '>HERE<',
     'March': '>HERE<',
     'MAR': '>HERE<',
+    'Project 1': '>HERE<',
+    'CZ': 'FR'
 }
